@@ -11,5 +11,5 @@ https://ieeexplore.ieee.org/abstract/document/7851069/
 https://journals.sagepub.com/doi/abs/10.1177/0333102417733953
 3. Cao, Z., Lin, C. T., Lai, K. L., Ko, L. W., King, J. T., Fuh, J. L., & Wang, S. J. (2018). Extraction of SSVEPs-based Inherent Fuzzy Entropy Using a Wearable Headband EEG in Migraine Patients. arXiv preprint arXiv:1809.06673.
 https://arxiv.org/abs/1809.06673
-4.Cao, Z., Ding, W., Wang, Y. K., Hussain, F. K., Al-Jumaily, A., & Lin, C. T. (2018). Effects of Repetitive SSVEPs on EEG Complexity using Multiscale Inherent Fuzzy Entropy. arXiv preprint arXiv:1809.06671.
+4. Cao, Z., Ding, W., Wang, Y. K., Hussain, F. K., Al-Jumaily, A., & Lin, C. T. (2018). Effects of Repetitive SSVEPs on EEG Complexity using Multiscale Inherent Fuzzy Entropy. arXiv preprint arXiv:1809.06671.
 https://arxiv.org/abs/1809.06671
