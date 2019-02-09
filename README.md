@@ -1,7 +1,7 @@
 # EEG-Inherent-Fuzzy-Entropy
 
 Before runing the main code (an example named 'EEG_entropy_processing') to analyse EEG inherent fuzzy entropy, please remember to
-1. Add the "HHT_runcode" and "fuzzy_MSE" files in the run path.
+1. Add the "HHT_runcode" and "MSE_ALL" files in the run path.
 2. Change the data locations.
 
 References:
