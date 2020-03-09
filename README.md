@@ -13,6 +13,6 @@ https://ieeexplore.ieee.org/abstract/document/7851069/
 2. Cao, Z., Lai, K. L., Lin, C. T., Chuang, C. H., Chou, C. C., & Wang, S. J. (2018). Exploring resting-state EEG complexity before migraine attacks. Cephalalgia, 38(7), 1296-1306.
 https://journals.sagepub.com/doi/abs/10.1177/0333102417733953
 3. Cao, Z., Lin, C. T., Lai, K. L., Ko, L. W., King, J. T., Fuh, J. L., & Wang, S. J. (2019). Extraction of SSVEPs-based Inherent Fuzzy Entropy Using a Wearable Headband EEG in Migraine Patients. IEEE Transactions on Fuzzy Systems.
-https://arxiv.org/abs/1809.06673
+https://ieeexplore.ieee.org/document/8668710
 4. Cao, Z., Ding, W., Wang, Y. K., Hussain, F. K., Al-Jumaily, A., & Lin, C. T. (2019). Effects of Repetitive SSVEPs on EEG Complexity using Multiscale Inherent Fuzzy Entropy. Neurocomputing.
-https://arxiv.org/abs/1809.06671
+https://www.sciencedirect.com/science/article/abs/pii/S0925231219304138
